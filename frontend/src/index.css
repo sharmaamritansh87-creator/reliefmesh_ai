@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { margin: 0; color: #dbe7ff; font-family: Inter, system-ui, sans-serif; }
+.leaflet-container { background: #08111f; border-radius: 0.75rem; }
+::-webkit-scrollbar { width: 6px; } ::-webkit-scrollbar-thumb { background: #1b2c4a; border-radius: 3px; }

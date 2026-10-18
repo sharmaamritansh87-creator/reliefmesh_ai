@@ -1,0 +1,11 @@
+{
+  "supplies": {"food_packets": 500, "medicines": 300, "water_bottles": 400},
+  "volunteers": 12,
+  "ratios": {"food_per_person": 1, "water_per_person": 1, "medicines_per_person": 1, "people_per_volunteer": 60, "max_volunteers_per_site": 4},
+  "vehicles": [
+    {"id": "Truck-1", "type": "truck", "station": "Jorhat", "team": "Alpha", "modes": ["road"]},
+    {"id": "Boat-1", "type": "boat", "station": "Jorhat", "team": "Bravo", "modes": ["river"]},
+    {"id": "Boat-2", "type": "boat", "station": "Tezpur", "team": "Bravo", "modes": ["river"]},
+    {"id": "Heli-1", "type": "helicopter", "station": "Guwahati", "team": "Charlie", "modes": ["air"]}
+  ]
+}

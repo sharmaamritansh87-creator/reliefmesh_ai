@@ -1,0 +1,12 @@
+[
+  {"id":"R1","text":"Majuli me baadh aayi hai, 200 log fase hain, khana aur paani chahiye, urgent","village":"Majuli","district":"Majuli","state":"Assam","lat":26.95,"lon":94.17,"timestamp":"2026-10-18T10:12:00"},
+  {"id":"R2","text":"Majuli flood: food needed for around 180 people","village":"Majuli","district":"Majuli","state":"Assam","lat":26.951,"lon":94.171,"timestamp":"2026-10-18T10:14:00"},
+  {"id":"R3","text":"Dhemaji: no food left, 200+ people, urgent please","village":"Dhemaji","district":"Dhemaji","state":"Assam","lat":27.4833,"lon":94.5833,"timestamp":"2026-10-18T10:15:00"},
+  {"id":"R4","text":"Barpeta bridge damaged, road not accessible, 90 people stranded, need rescue","village":"Barpeta","district":"Barpeta","state":"Assam","lat":26.3226,"lon":91.005,"timestamp":"2026-10-18T10:18:00"},
+  {"id":"R5","text":"Lakhimpur: 50 injured, medicines nahi hain, doctor chahiye","village":"Lakhimpur","district":"Lakhimpur","state":"Assam","lat":27.236,"lon":94.102,"timestamp":"2026-10-18T10:21:00"},
+  {"id":"R6","text":"East Siang: elderly residents need evacuation, 30 people","village":"East Siang","district":"East Siang","state":"Arunachal Pradesh","lat":28.0667,"lon":95.3333,"timestamp":"2026-10-18T10:25:00"},
+  {"id":"R7","text":"Dibrugarh me saaf paani nahi hai, 300 log","village":"Dibrugarh","district":"Dibrugarh","state":"Assam","lat":27.4728,"lon":94.912,"timestamp":"2026-10-18T10:27:00"},
+  {"id":"R8","text":"Cachar me kuch gharon ko nuksan hua, shelter chahiye, 60 log","village":"Cachar","district":"Cachar","state":"Assam","lat":24.7,"lon":92.6,"timestamp":"2026-10-18T10:30:00"},
+  {"id":"R9","text":"Garo Hills landslide, medicine shortage, 40 people","village":"West Garo Hills","district":"West Garo Hills","state":"Meghalaya","lat":25.514,"lon":90.202,"timestamp":"2026-10-18T10:33:00"},
+  {"id":"R10","text":"Dibrugarh water shortage in relief camp, around 120 people","village":"Dibrugarh","district":"Dibrugarh","state":"Assam","lat":27.473,"lon":94.913,"timestamp":"2026-10-18T10:36:00"}
+]

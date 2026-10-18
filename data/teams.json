@@ -1,0 +1,5 @@
+[
+  {"name": "Alpha", "assets": ["Truck-1"], "volunteers": 4, "role": "Road logistics"},
+  {"name": "Bravo", "assets": ["Boat-1", "Boat-2"], "volunteers": 4, "role": "River operations"},
+  {"name": "Charlie", "assets": ["Heli-1"], "volunteers": 4, "role": "Support & air coordination"}
+]
